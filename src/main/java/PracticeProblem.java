@@ -1,8 +1,8 @@
 /**
 
-        * File: 
+        * File: Assumptions
 
-        * Author: Assumptions
+        * Author: Joe Yang
 
         * Date Created: April 20, 2026
 
